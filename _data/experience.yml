@@ -1,9 +1,10 @@
 # Jobs
-# Surftocat
-- company: Self Employed
-  position: Surftocat
-  duration: Life
-  summary: I only live to get radical.
+
+# Trainer
+- company: Universität Innsbruck, Institut für Theoretische Physik (ITP).
+  position: PhD Student
+  duration: March, 2018 &mdash; Present
+  summary: Development of novel algorithms to deal with numerically hard problems.
 
 # Job Title
 - company: Conway Meats
@@ -16,3 +17,4 @@
   position: Intern - Web Developer - Designer
   duration:  June, 2017  &mdash; August, 2017
   summary: Redesigned the services.github.com website without a calendar
+
